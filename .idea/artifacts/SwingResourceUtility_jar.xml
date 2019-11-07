@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SwingResourceUtility:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SwingResourceUtility_jar</output-path>
+    <root id="archive" name="SwingResourceUtility.jar">
+      <element id="module-output" name="SwingResourceUtility" />
+    </root>
+  </artifact>
+</component>
